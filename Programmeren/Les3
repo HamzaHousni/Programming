@@ -2,4 +2,4 @@ Naam = input("Wat is je naam?")
 Leeftijd = int(input('Wat is je leeftijd?'))
 if Leeftijd < 18: print('U mag niet stemmen')
 if Leeftijd > 18: print('U mag stemmen')
-
+naam = 'res'
